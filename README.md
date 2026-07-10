@@ -87,6 +87,6 @@ $$\pi(a|s) = \frac{\exp\left(\frac{M(s, a)}{T}\right)}{\sum_{a' \in A} \exp\left
 
 相手の戦略にかかわらず、自分が損しない戦略を選ぶことができており、ナッシュ均衡の近似ができていると考えらえる。
 
-具体的なコードはこちらをご覧ください。
+具体的なコードはこちらからご覧ください。src/agent/drn_agent.rsに更新方法やaction選択があります。
 https://github.com/oyoyo4556/Sevens_Rust_RL
 
